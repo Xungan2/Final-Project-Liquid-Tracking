@@ -18,3 +18,7 @@ Here we present a table shows all the results.
 The code is saved in *improvement.ipynb*.
 ## Part3 - Attempts to use MOT method
 To take advantage of the connection between the video frames, we try to use MOT method to improve the model's performance.  
+The structure we are trying to use here is ByteTrack. The specific ByteTrack code is shown in *improvement.ipynb*.  
+We have made some small changes to the internal codes of ByteTrack to meet our requirements.  
+Here we present a table shows all the results.  
+![avatar](./table2.png) 
